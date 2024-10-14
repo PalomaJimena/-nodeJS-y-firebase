@@ -18,10 +18,10 @@ saludo2("pancho","paco");
 var saludo3=(nombre1,nombre2)=>{
     return "hola"+nombre1+"y"+nombre2;;
 }
-console.log(saludo3("hugo"));
+console.log(saludo3("jesus"));
 
 var saludo4=(nombre1)=>"hola" + nombre1;
-console.log(saludo4("bethoveen"));
+console.log(saludo4("cristiano"));
 
 var saludo5=function(){
     console.log("hola con funcion aminada")
